@@ -8,5 +8,7 @@ In 4.0.0.5 version, transmuted spell is toggled off immediatly after choose elem
 
 **I will remove this repository as soon as author upload fix!**
 
+You can download pak file from [release](https://github.com/Nukaccino/Metamagic-Extended-4.0.0.5-Transmuted-Fix/releases/tag/4.0.0.5-transmuted-bug-fix).
+
 ![1](https://i.imgur.com/kVKj4tI.png)
 ![2](https://i.imgur.com/HymKCwE.png)
